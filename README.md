@@ -1,5 +1,6 @@
 # com.install.appinstall.xl
-伪造应用安装 XP 模块
+伪造安装模块 XP模块
+
 # 应用安装状态伪造 XP 模块
 这是一个基于Android系统底层架构进行hook技术的应用防护模块。
 核心作用是：
