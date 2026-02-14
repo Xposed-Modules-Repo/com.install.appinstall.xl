@@ -108,7 +108,8 @@ A：1. 模块并未对分身应用进行适配，不建议作用于分身应用�
 https://github.com/yijun01/com.install.appinstall.xl
 
 # 数据统计
- 📦 **Download**  
- ![GitHub 总下载](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=222&color=gold&style=flat-square)
- ⭐ **Star**
- ![Star 趋势](https://starchart.cc/Xposed-Modules-Repo/com.install.appinstall.xl.svg?theme=dark)
+ 📦 **Download**   📦
+ ![](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=222&color=gold&style=flat-square)
+ 
+ ⭐ **Star** ⭐
+![](https://starchart.cc/Xposed-Modules-Repo/com.install.appinstall.xl.svg?theme=dark)
