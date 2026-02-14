@@ -1,7 +1,7 @@
 # 伪造安装模块（com.install.appinstall.xl）
 基于Android底层Hook技术的应用防护XP模块，核心实现应用安装状态伪造，拦截恶意安装检测，绕过应用强制安装限制，保护设备应用列表隐私。
 
-![Android](https://img.shields.io/badge/Android-333?logo=android&logoColor=white&style=flat-square) ![Xposed_Module](https://img.shields.io/badge/Xposed_Module-333?logo=android&logoColor=white&style=flat-square) ![LSPosed](https://img.shields.io/badge/LSPosed-333?logo=linux&logoColor=white&style=flat-square) ![LSPatch](https://img.shields.io/badge/LSPatch-333?logo=git&logoColor=white&style=flat-square) ![Root](https://img.shields.io/badge/Root-333?logo=lock&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/OpenSource-333?logo=github&logoColor=white&style=flat-square)
+![Android](https://img.shields.io/badge/Android-222?logo=android&logoColor=gold&style=flat-square) ![Xposed_Module](https://img.shields.io/badge/Xposed_Module-222?logo=android&logoColor=gold&style=flat-square) ![LSPosed](https://img.shields.io/badge/LSPosed-222?logo=linux&logoColor=gold&style=flat-square) ![LSPatch](https://img.shields.io/badge/LSPatch-222?logo=git&logoColor=gold&style=flat-square) ![Root](https://img.shields.io/badge/Root-222?logo=lock&logoColor=gold&style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=gold&style=flat-square)
 
 ### 核心作用
 拦截应用的PackageManager/文件/命令行/网络等多维度安装检测，返回自定义伪造结果（已安装/未安装），防止应用因检测特定包而限制功能、强制退出或强制推送下载。
@@ -108,8 +108,7 @@ A：1. 模块并未对分身应用进行适配，不建议作用于分身应用�
 https://github.com/yijun01/com.install.appinstall.xl
 
 # 数据统计
-📦 **Download**  
-![GitHub 总下载](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=2dba4e&color=2dba4e)
-
-⭐ **Star**
-![Star 趋势](https://starchart.cc/Xposed-Modules-Repo/com.install.appinstall.xl.svg?theme=dark)
+ 📦 **Download**  
+ ![GitHub 总下载](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=222&color=gold&style=flat-square)
+ ⭐ **Star**
+ ![Star 趋势](https://starchart.cc/Xposed-Modules-Repo/com.install.appinstall.xl.svg?theme=dark)
