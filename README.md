@@ -109,6 +109,7 @@ https://github.com/yijun01/com.install.appinstall.xl
 
 # 数据统计
  📦 **Download**   📦
+ 
  ![](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=222&color=gold&style=flat-square)
  
  ⭐ **Star** ⭐
