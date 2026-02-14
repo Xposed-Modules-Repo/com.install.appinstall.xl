@@ -1,7 +1,8 @@
 # 伪造安装模块（com.install.appinstall.xl）
 基于Android底层Hook技术的应用防护XP模块，核心实现应用安装状态伪造，拦截恶意安装检测，绕过应用强制安装限制，保护设备应用列表隐私。
 
-![Android](https://img.shields.io/badge/Android-222?logo=android&logoColor=gold&style=flat-square) ![Xposed_Module](https://img.shields.io/badge/Xposed_Module-222?logo=android&logoColor=gold&style=flat-square) ![LSPosed](https://img.shields.io/badge/LSPosed-222?logo=linux&logoColor=gold&style=flat-square) ![LSPatch](https://img.shields.io/badge/LSPatch-222?logo=git&logoColor=gold&style=flat-square) ![Root](https://img.shields.io/badge/Root-222?logo=lock&logoColor=gold&style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=gold&style=flat-square)
+![Android](https://img.shields.io/badge/Android-9575DE?logo=android&logoColor=white) ![Xposed](https://img.shields.io/badge/Xposed-Module-7E57C2?logo=android&logoColor=white) ![LSPosed](https://img.shields.io/badge/LSPosed-Supported-7E57C2?logoColor=white) ![LSPatch](https://img.shields.io/badge/LSPatch-Supported-7E57C2?logoColor=white) ![Root](https://img.shields.io/badge/Root-Supported-7E57C2?logo=lock&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-OpenSource-7E57C2?logo=github&logoColor=white)
+
 
 ### 核心作用
 拦截应用的PackageManager/文件/命令行/网络等多维度安装检测，返回自定义伪造结果（已安装/未安装），防止应用因检测特定包而限制功能、强制退出或强制推送下载。
@@ -110,7 +111,8 @@ https://github.com/yijun01/com.install.appinstall.xl
 # 数据统计
  📦 **Download**   📦
  
- ![](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=222&color=gold&style=flat-square)
+ ![](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=7E57C2&color=white)
  
  ⭐ **Star** ⭐
-![](https://starchart.cc/Xposed-Modules-Repo/com.install.appinstall.xl.svg?theme=dark)
+ 
+![](https://starchart.cc/Xposed-Modules-Repo/com.install.appinstall.xl.svg?theme=purple)
