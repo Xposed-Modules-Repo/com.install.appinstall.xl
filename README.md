@@ -134,5 +134,5 @@ https://github.com/yijun01/com.install.appinstall.xl
  
 [![](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.install.appinstall.xl/total?logo=github&label=Total%20Downloads&labelColor=7E57C2&color=white)](https://github.com/Xposed-Modules-Repo/com.install.appinstall.xl)
  
- ⭐ **Star** ⭐
+ ⭐
 [![](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.install.appinstall.xl?theme=purple)](https://github.com/Xposed-Modules-Repo/com.install.appinstall.xl)
