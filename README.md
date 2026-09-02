@@ -56,7 +56,7 @@
 | **捕获包名** | 目标应用查询包时同步捕获并列出相应包名，便于预配置规则。 |
 | **配置文件** | 悬浮窗位置、拦截状态、设置模式等自动持久化，重启不丢失。 |
 | **配置导出** | 路径：`/storage/emulated/0/Android/data/目标包名/files/installcf_包名_时间戳.json` |
-| **配置导入** | 新文件需在`/storage/emulated/0/Android/data/目标包名/`路径下才能识别，暂不支持使用文件选择器。 |
+| **配置导入** | 新文件需在`/storage/emulated/0/Android/data/目标包名/files/`路径下才能识别，暂不支持使用文件选择器。 |
 >配置导入导出支持个性化配置（注：不支持导出含自动捕获的包名）
 <img alt="安装防护模块5" src="https://github.com/user-attachments/assets/e4143932-0b70-4f18-9eb8-5c486a86f48e" />
 
